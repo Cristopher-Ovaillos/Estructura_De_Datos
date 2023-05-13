@@ -7,7 +7,7 @@ public class Pila {
 		 private static final int TAMANIO = 10;
 
 		 //CONSTRUCTOR
-		 // contructor vacio
+		 //contructor vacio
 		 public Pila() {
 		  this.arreglo = new Object[TAMANIO];
 		  this.tope = -1;
